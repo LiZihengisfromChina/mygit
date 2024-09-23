@@ -1,0 +1,15 @@
+//        RGB_BLUE(Pixel_S1_NUM);      // 全部灯珠设为蓝色
+//        delay_ms(1000);              // 延时 1 秒
+//        RGB_YELLOW(Pixel_S1_NUM);    // 全部灯珠设为黄色
+//        delay_ms(1000);              // 延时 1 秒
+//        RGB_MAGENTA(Pixel_S1_NUM);   // 全部灯珠设为品红色
+//        delay_ms(1000);              // 延时 1 秒
+//        RGB_SKY(Pixel_S1_NUM);       // 全部灯珠设为天蓝色
+//        delay_ms(1000);              // 延时 1 秒
+//        RGB_WHITE(Pixel_S1_NUM);     // 全部灯珠设为白色
+//        delay_ms(1000);              // 延时 1 秒
+//        RGB_BLACK(Pixel_S1_NUM);     // 关闭全部灯珠
+//        delay_ms(1000);              // 延时 1 秒
+
+        // 呼吸灯效果
+//        rainbowCycle(Pixel_S1_NUM);
